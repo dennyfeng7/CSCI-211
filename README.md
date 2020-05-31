@@ -1,7 +1,4 @@
 # CSCI 211 - Object-Oriented Programming in C++
-
-All 14 projects required for completion of course. 
-
 Instructor: Dr. Jerry Waxman
 
 Semester: Fall 2019
